@@ -1,0 +1,13 @@
+{
+  "FooterText": "{{year}} - The creator of this page is Zsolt Varga",
+  "Moves": "Moves: {{moves}}",
+  "MemoryGameStartDialogTitle": "Memory game size selector",
+  "MemoryGameStartDialogDescription": "To start the game, please enter how many cards you would like to play with! This size determines the total number of cards that will appear on the screen. The minimum is 4, the maximum 24.",
+  "MemoryGameStartDialogInputLabel": "Number of cards",
+  "MemoryGameStartDialogInputHelperText": "Incorrect value",
+  "Home": "Home",
+  "NewGame": "New game",
+  "CongratsShort" :  "Congratulations!",
+  "MemoryGameResultMessage": "You have successfully found all the pairs!",
+  "YourTime": "Your time:"
+}

@@ -1,0 +1,13 @@
+{
+  "FooterText": "{{year}} - このページの作者はZsolt Vargaである。",
+  "Moves": "ステップ: {{moves}}",
+  "MemoryGameStartDialogTitle": "メモリーゲームサイズセレクター",
+  "MemoryGameStartDialogDescription": "ゲームを始めるには、カードの枚数を入力してください！このサイズによって、画面に表示されるカードの総数が決まります。最小は4枚、最大は24枚です。",
+  "MemoryGameStartDialogInputLabel": "カード枚数",
+  "MemoryGameStartDialogInputHelperText": "誤った値",
+  "Home": "ホーム",
+  "NewGame": "ニューゲーム",
+  "CongratsShort" :  "おめでとう！",
+  "MemoryGameResultMessage": "あなたはすべてのペアを見つけることに成功しました！",
+  "YourTime": "あなたの時間:"
+}

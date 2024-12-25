@@ -1,0 +1,13 @@
+{
+  "FooterText": "{{year}} - El autor de esta página es Zsolt Varga",
+  "Moves": "Se mueve: {{moves}}",
+  "MemoryGameStartDialogTitle": "Selector de tamaño de juego de memoria",
+  "MemoryGameStartDialogDescription": "Para comenzar el juego, introduzca el número de cartas con las que desea jugar. Este tamaño determina el número total de cartas que aparecerán en la pantalla. El mínimo es 4, el máximo 24.",
+  "MemoryGameStartDialogInputLabel": "Número de tarjetas",
+  "MemoryGameStartDialogInputHelperText": "Valor incorrecto",
+  "Home": "Inicio",
+  "NewGame": "Nuevo juego",
+  "CongratsShort" :  "¡Felicidades!",
+  "MemoryGameResultMessage": "Has encontrado todas las parejas.",
+  "YourTime": "Tu tiempo:"
+}

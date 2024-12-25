@@ -1,0 +1,13 @@
+{
+  "FooterText": "{{year}} - Az oldal készítője Varga Zsolt",
+  "Moves": "Lépések: {{moves}}",
+  "MemoryGameStartDialogTitle": "Memóriajáték méretválasztó",
+  "MemoryGameStartDialogDescription": "A játék kezdéséhez kérlek add meg, mennyi kártyával szeretnél játszani! Ez a méret adja meg, hogy összesen mennyi kártya jelenik meg a képernyőn. Minimum 4, maximum 24 lehet az érték.",
+  "MemoryGameStartDialogInputLabel": "Kártyák száma",
+  "MemoryGameStartDialogInputHelperText": "Helytelen érték",
+  "Home": "Főoldal",
+  "NewGame": "Új játék",
+  "CongratsShort" :  "Gratulálok!",
+  "MemoryGameResultMessage": "Sikeresen megtaláltad az összes párt!",
+  "YourTime": "Az időd:"
+}
