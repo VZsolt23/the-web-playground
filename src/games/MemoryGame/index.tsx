@@ -100,7 +100,7 @@ const MemoryGame = ({ size, handleSuccess, completionTime }: MemoryGameProps) =>
   }
 
   return (
-    <Paper sx={{ margin: 2 }}>
+    <Paper sx={{ margin: 2 }} id={'paper-element'}>
       <Box display={'flex'} flexGrow={1} flexDirection={'column'} alignItems={'center'}>
         <Box
           display={'flex'}

@@ -7,7 +7,6 @@ import ResultDialog from '../components/ResultDialog.tsx'
 
 const MemoryGamePage = () => {
   const [isDialogOpen, setIsDialogOpen] = useState<boolean>(true)
-  // const [isResultDialogOpen, setIsResultDialogOpen] = useState<boolean>(false)
   const [isCompleted, setIsCompleted] = useState<boolean>(false)
 
   const [inputValue, setInputValue] = useState<number>(4)
