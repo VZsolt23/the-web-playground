@@ -17,7 +17,7 @@ const Footer = () => {
   }, [])
 
   const getVersion = async () => {
-    const repo = 'nvm-sh/nvm'
+    const repo = 'VZsolt23/the-web-playground'
     const url = `https://api.github.com/repos/${repo}/tags`
     await fetch(url)
       .then(response => response.json())
@@ -52,7 +52,7 @@ const Footer = () => {
         <Typography variant='subtitle1' mx={2}>
           {t('FooterText', { year: year })}
         </Typography>
-        <Typography variant='subtitle1'>{version}</Typography>
+        <Typography variant='subtitle1'>{version || 'v0.0.0'}</Typography>
       </Box>
     </footer>
   )
